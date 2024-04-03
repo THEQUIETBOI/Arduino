@@ -43,7 +43,7 @@ namespace MDNSImplementation
     /**
         CONST STRINGS
     */
-    static const char* scpcLocal    = "local";
+    static const char* scpcLocal    = "home";
     static const char* scpcServices = "services";
     static const char* scpcDNSSD    = "dns-sd";
     static const char* scpcUDP      = "udp";
